@@ -1,6 +1,5 @@
 # Text-to-Speech Application
 
-# Text-to-Speech Application
 
 This application uses Streamlit along with Transformers library to convert text input into speech audio using the SpeechT5 model for text-to-speech synthesis and HiFi-GAN for vocoding.
 
